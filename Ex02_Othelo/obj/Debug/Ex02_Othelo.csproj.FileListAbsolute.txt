@@ -1,0 +1,6 @@
+c:\users\ailon\documents\visual studio 2015\Projects\Solution1\Ex02_Othelo\bin\Debug\Ex02_Othelo.exe
+c:\users\ailon\documents\visual studio 2015\Projects\Solution1\Ex02_Othelo\bin\Debug\Ex02_Othelo.pdb
+c:\users\ailon\documents\visual studio 2015\Projects\Solution1\Ex02_Othelo\obj\Debug\Ex02_Othelo.csprojResolveAssemblyReference.cache
+c:\users\ailon\documents\visual studio 2015\Projects\Solution1\Ex02_Othelo\obj\Debug\Ex02_Othelo.exe
+c:\users\ailon\documents\visual studio 2015\Projects\Solution1\Ex02_Othelo\obj\Debug\Ex02_Othelo.pdb
+c:\users\ailon\documents\visual studio 2015\Projects\Solution1\Ex02_Othelo\bin\Debug\Ex02.ConsoleUtils.dll
